@@ -1,0 +1,16 @@
+{
+    "name": "maike/grading-class-overview",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maik001",
+            "email": "maikemir2003@gmail.com"
+        }
+    ],
+    "require": {}
+}
